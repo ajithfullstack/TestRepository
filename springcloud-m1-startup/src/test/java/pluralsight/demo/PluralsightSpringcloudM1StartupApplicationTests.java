@@ -11,6 +11,7 @@ public class PluralsightSpringcloudM1StartupApplicationTests {
 
 	@Test
 	public void contextLoads() {
+System.out.println("Simply added the comments")
 	}
 
 }
